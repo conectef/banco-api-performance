@@ -18,7 +18,7 @@ O objetivo é validar a escalabilidade, resiliência e tempo de resposta dos end
 
 ```plaintext
 banco-api-performance/
-├── fixtures/              # Dados de entrada para os testes (ex: uduários, payloads)
+├── fixtures/              # Dados de entrada para os testes (ex: usuários, payloads)
 ├── helpers/               # Funções utilitárias reutilizavéis para interação com a API
 ├── tests/                 # Contém os arquivos de teste organizados por módulo da API
 │   ├── transferencias.test.js
